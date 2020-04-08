@@ -17,7 +17,8 @@ prototype:
 
     ```sh
     git clone git@github.com:Sheffield-Digital/c19-donateyourtech.git
-    firefox file:///path/to/the/repository/prototype/index.html
+    firefox file:///path/to/the/repository/prototype/index.html # Linux
+    open file:///path/to/the/repository/prototype/index.html # MacOS
     ```
 
 3. Pick a page from the wire frames in the Miro board
