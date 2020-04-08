@@ -16,9 +16,17 @@ prototype:
 2. Navigate to the home page using a file reference in a web browser
 
     ```sh
+    # Clone the repo
     git clone git@github.com:Sheffield-Digital/c19-donateyourtech.git
+
+    # Open the prototype in a web browser
     firefox file:///path/to/the/repository/prototype/index.html # Linux
     open file:///path/to/the/repository/prototype/index.html # MacOS
+
+    # Hack, hack, hack...
+
+    # Push the changes
+    git add . && git commit && git push
     ```
 
 3. Pick a page from the wire frames in the Miro board
