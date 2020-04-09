@@ -39,15 +39,18 @@ prototype:
 # Journeys
 
 ## Home
-1. Homepage: ./prototype/index.html
+1. ./index.html
+
+## Equipment List
+1. ./equipment-list.html
 
 ## Donate Equipment
-1. ./prototype/donor-intro.html
-2. ./prototype/donor-donation.html
-3. ./prototype/donor-add-equipment.html
-4. ./prototype/donor-check-your-email.html
-5. ./prototype/donor-confirm-your-email.html
-6. ./prototype/donor-token-failed.html
-7. ./prototype/donor-thank-you.html
+1. ./donor-intro.html
+2. ./donor-donation.html
+3. ./donor-add-equipment.html
+4. ./donor-check-your-email.html
+5. ./donor-confirm-your-email.html
+6. ./donor-token-failed.html
+7. ./donor-thank-you.html
 
 ## Service Centre
