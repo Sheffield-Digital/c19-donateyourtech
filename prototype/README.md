@@ -73,3 +73,5 @@ prototype:
 3. Service Centre Link Emailed Page
 4. Service Centre Sign In Failed Page
 3. Service Centre Registration Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/service-centre-sign-up.html
+   - [Source](./service-centre-sign-up.html)
