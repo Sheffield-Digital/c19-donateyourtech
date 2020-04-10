@@ -67,6 +67,8 @@ prototype:
 
 ## Service Centre Journey
 1. Service Centre Introduction Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/service-centre-intro.html
+   - [Source](./service-centre-intro.html)
 2. Service Centre Sign In Page
 3. Service Centre Link Emailed Page
 4. Service Centre Sign In Failed Page

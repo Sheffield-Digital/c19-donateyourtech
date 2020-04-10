@@ -14,6 +14,9 @@ document.write('    \
               <a class="nav-link" href="#">Contact us</a>    \
             </li>    \
             <li class="nav-item">    \
+              <a class="nav-link" href="equipment-list.html">Equipment List</a>    \
+            </li>    \
+            <li class="nav-item">    \
               <a class="nav-link" href="#">Log in</a>    \
             </li>    \
           </ul>    \
