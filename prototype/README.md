@@ -39,18 +39,35 @@ prototype:
 # Journeys
 
 ## Home
-1. ./index.html
+1. Home Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/index.html
+   - [Source](./index.html)
 
 ## Equipment List
-1. ./equipment-list.html
+1. Equipment List Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/equipment-list.html
+   - [Source](./equipment-list.html)
 
-## Donate Equipment
-1. ./donor-intro.html
-2. ./donor-donation.html
-3. ./donor-add-equipment.html
-4. ./donor-check-your-email.html
-5. ./donor-confirm-your-email.html
-6. ./donor-token-failed.html
-7. ./donor-thank-you.html
+## Donate Equipment Journey
+1. Donor Introduction Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/donor-intro.html
+   - [Source](./donor-intro.html)
+2. Donation Overview Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/donor-donation.html
+   - [Source](./donor-donation.html)
+3. Donation Add Equipment Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/donor-add-equipment.html
+   - [Source](./donor-add-equipment.html)
+4. Donation Check Email Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/donor-check-your-email.html
+   - [Source](./donor-check-your-email.html)
+5. Donation Confirm Email Page
+6. Donation Token Failed Page
+7. Donation Thank You Page
 
-## Service Centre
+## Service Centre Journey
+1. Service Centre Introduction Page
+2. Service Centre Sign In Page
+3. Service Centre Link Emailed Page
+4. Service Centre Sign In Failed Page
+3. Service Centre Registration Page
