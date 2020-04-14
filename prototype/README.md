@@ -44,9 +44,13 @@ prototype:
    - [Source](./index.html)
 
 ## Equipment List
-1. Equipment List Page
+1. Equipment List Page (authenticated profile version)
    - https://sheffield-digital.github.io/c19-donateyourtech/prototype/equipment-list.html
    - [Source](./equipment-list.html)
+2. Equipment List Page (single list version)
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/equipment-list-single.html
+   - [Source](./equipment-list-single.html)
+
 
 ## Donate Equipment Journey
 1. Donor Introduction Page
