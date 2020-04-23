@@ -79,3 +79,11 @@ prototype:
 3. Service Centre Registration Page
    - https://sheffield-digital.github.io/c19-donateyourtech/prototype/service-centre-sign-up.html
    - [Source](./service-centre-sign-up.html)
+
+## Community Group Journey
+1. Community Group Introduction Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/community-group-intro.html
+   - [Source](./community-group-intro.html)
+2. Community Group Registration Page
+   - https://sheffield-digital.github.io/c19-donateyourtech/prototype/community-group-sign-up.html
+   - [Source](./community-group-sign-up.html)
