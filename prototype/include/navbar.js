@@ -17,13 +17,16 @@ document.write('    \
               <a class="nav-link" href="equipment-list-single.html">Equipment List</a>    \
             </li>    \
             <li class="nav-item">    \
+              <a class="nav-link" href="my-profile.html">My Profile</a>    \
+            </li>    \
+          </ul>    \
+        </div>    \
+        <div class="collapse navbar-collapse">    \
+          <ul class="navbar-nav ml-auto"> \
+            <li class="nav-item">    \
               <a class="nav-link" href="#">Log in</a>    \
             </li>    \
           </ul>    \
-          <form class="form-inline mt-2 mt-md-0">    \
-            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">    \
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>    \
-          </form>    \
         </div>    \
       </nav>    \
    </header>    \
